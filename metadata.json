@@ -1,0 +1,6 @@
+{
+  "name": "Mtafsiri wa Maandishi kuwa Sauti (MP3)",
+  "description": "Programu inayosoma maandishi yako na kuyageuza kuwa sauti, huku ikikuruhusu kupakua na kuhifadhi kama faili ya MP3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
